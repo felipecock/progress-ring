@@ -1,7 +1,7 @@
-# progress-ring
-A pure CSS3 and HTML5 Progress Ring
+# Pure CSS3 Progress Ring
+An animated pure CSS3 and HTML5 Progress Ring without the need to run any JavaScript threads.
 
-## Web-Browser Compatibilty
+## Web-Browser Compatibility
 ✓ Chrome 42
 
 ✓ Firefox 37

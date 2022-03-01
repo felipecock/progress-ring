@@ -1,6 +1,12 @@
 # Pure CSS3 Progress Ring
 An animated pure CSS3 and HTML5 Progress Ring without the need to run any JavaScript threads.
 
+
+Take a look of this component working in your browser:
+
+https://felipecock.github.io/progress-ring/progress-ring.html
+
+
 ## Web-Browser Compatibility
 ✓ Chrome 42
 
